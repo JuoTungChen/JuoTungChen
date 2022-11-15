@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chenjuotung@gmail.com**
 
-- 📄 Know about my experiences [resume] (https://github.com/JuoTungChen/resume/blob/master/resume_latex.pdf)
+- 📄 Know about my experiences [resume](https://github.com/JuoTungChen/resume/blob/master/resume_latex.pdf)
 
 - ⚡ Fun fact **I'm also an excellent guitar player**
 
