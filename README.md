@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Juo-Tung Chen</h1>
 <h3 align="center">A passionate roboticist from Taiwan</h3>
 
-- 🌱 I’m currently learning **Path planning algorithms and SLAM**
+- 🌱 I’m currently a graduate student in **Johns Hopkins University major in Robotics**
 
 - 👨‍💻 All of my projects are available at [https://jjcc0704.wixsite.com/projects](https://jjcc0704.wixsite.com/projects)
 
