@@ -1,5 +1,5 @@
 <h1 align="center">Juo-Tung Chen</h1>
-<h3 align="center">A passionate roboticist from Taiwan</h3>
+<h3 align="center">A roboticist interested in HRI and Robot Learning</h3>
 
 - 🌱 I’m currently a master student in **Johns Hopkins University major in Robotics**
 
