@@ -1,13 +1,13 @@
- <h1 align="center">Hi 👋, I'm Juo-Tung Chen</h1>
+<h1 align="center">Juo-Tung Chen</h1>
 <h3 align="center">A passionate roboticist from Taiwan</h3>
 
-- 🌱 I’m currently a graduate student in **Johns Hopkins University major in Robotics**
+- 🌱 I’m currently a master student in **Johns Hopkins University major in Robotics**
 
-- 👨‍💻 All of my projects are available at [https://jjcc0704.wixsite.com/projects](https://jjcc0704.wixsite.com/projects)
+- 👨‍💻 All of my projects are available at [https://juotungchen.github.io/projects/](https://juotungchen.github.io/projects/)
 
-- 📫 How to reach me **chenjuotung@gmail.com**
+- 📫 How to reach me **[jchen396@jhu.edu](mailto:jchen396@jhu.edu)**
 
-- 📄 Know about my experiences [resume](https://github.com/JuoTungChen/resume/blob/master/resume_latex.pdf)
+- 📄 Know about my experiences [resume]([https://github.com/JuoTungChen/resume/blob/master/resume_latex.pdf](https://drive.google.com/file/d/1uHBaOGW2hYhs4___-GXZHyyhzmM4NJKn/view?usp=sharing))
 
 - ⚡ Fun fact **I'm also an excellent guitar player**
 
