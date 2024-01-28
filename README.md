@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://juotungchen.github.io/projects/](https://juotungchen.github.io/projects/)
 
-- 📫 How to reach me **[jchen396@jhu.edu](mailto:jchen396@jhu.edu)**
+- 📫 How to reach me: **[jchen396@jhu.edu](mailto:jchen396@jhu.edu)**
 
-- 📄 Know about my experiences [resume]([https://github.com/JuoTungChen/resume/blob/master/resume_latex.pdf](https://drive.google.com/file/d/1uHBaOGW2hYhs4___-GXZHyyhzmM4NJKn/view?usp=sharing))
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uHBaOGW2hYhs4___-GXZHyyhzmM4NJKn/view?usp=sharing)
 
 - ⚡ Fun fact **I'm also an excellent guitar player**
 
