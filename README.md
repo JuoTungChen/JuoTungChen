@@ -1,5 +1,5 @@
 <h1 align="center">Juo-Tung Chen</h1>
-<h3 align="center">A roboticist interested in HRI and Robot Learning</h3>
+<h3 align="center">A roboticist interested in bridging the gap between surgical robot and robot learning</h3>
 
 - 🌱 I’m a PhD student @ **Johns Hopkins University in Mechanical Engineering** working on robot learning for surgical robots.
 
