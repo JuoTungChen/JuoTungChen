@@ -1,13 +1,13 @@
 <h1 align="center">Juo-Tung Chen</h1>
 <h3 align="center">A roboticist interested in HRI and Robot Learning</h3>
 
-- 🌱 I’m currently a master student in **Johns Hopkins University major in Robotics**
+- 🌱 I’m a PhD student @ **Johns Hopkins University in Mechanical Engineering** working on robot learning for surgical robots.
 
-- 👨‍💻 All of my projects are available at [https://juotungchen.github.io/projects/](https://juotungchen.github.io/projects/)
+- 👨‍💻 My Personal website: [https://juotungchen.github.io/](https://juotungchen.github.io/)
 
 - 📫 How to reach me: **[jchen396@jhu.edu](mailto:jchen396@jhu.edu)**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uHBaOGW2hYhs4___-GXZHyyhzmM4NJKn/view?usp=sharing)
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1uHBaOGW2hYhs4___-GXZHyyhzmM4NJKn/view?usp=sharing](https://drive.google.com/file/d/1_8qxxrcBSb_2lkZrlzA6TYpX5_q_Btea/view?usp=sharing))
 
 - ⚡ Fun fact **I'm also an excellent guitar player**
 
