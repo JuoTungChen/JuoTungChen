@@ -1,7 +1,7 @@
 <h1 align="center">Juo-Tung Chen</h1>
 <h3 align="center">A roboticist interested in bridging the gap between surgical robot and robot learning</h3>
 
-- 🌱 I’m a PhD student @ **Johns Hopkins University in Mechanical Engineering** working on robot learning for surgical robots.
+- 🌱 I’m a PhD student @ **Johns Hopkins University in Mechanical Engineering** working on imitation learning for surgical robots.
 
 - 👨‍💻 My Personal website: [https://juotungchen.github.io/](https://juotungchen.github.io/)
 
